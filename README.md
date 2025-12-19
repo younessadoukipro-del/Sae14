@@ -17,7 +17,7 @@ Le site est hébergé sur GitHub Pages et accessible via le lien suivant :
 Le site respecte les standards du Web.
 * ✅ **Validation W3C (CSS)** : [Voir le rapport de validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fyounessadoukipro-del.github.io%2FSae14%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
 
-##📊 Gestion de Projet
+## 📊 Gestion de Projet
 [lien vers le trello](https://trello.com/invite/b/6945a73e3954691337d3f242/ATTI5dc430c5fe8d51355c10c3c7ad2cb7eaC270A4B2/projet-sae)
 ## 📝 Présentation du projet
 
