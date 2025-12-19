@@ -47,12 +47,7 @@ Le site se compose de **3 pages principales** :
     * **Animations CSS** pour dynamiser la navigation.
 * **Responsive Design** : Le site s'adapte automatiquement à la taille de l'écran.
 
-## 👨‍💻 Auteur
-
-**YOUNES SADOUKI**
-* Étudiant en 1ʳᵉ année de **BUT Réseaux et Télécommunications**.
-
-## 🔖 Licence et Contexte
+## 🔖 Contexte
 
 * **Contexte** : Projet pédagogique (SAE).
 
